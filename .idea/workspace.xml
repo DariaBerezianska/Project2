@@ -1,29 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33338d83-7a12-4084-8a28-f5b814a93985" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Project2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part2_1_iInheritance_features/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part2_1_iInheritance_features/Engineer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part2_1_iInheritance_features/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part2_1_iInheritance_features/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part2_2_inheritance_example_and_optional_part/BaseMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part2_2_inheritance_example_and_optional_part/Chat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part2_2_inheritance_example_and_optional_part/ContactMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part2_2_inheritance_example_and_optional_part/FileMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part2_2_inheritance_example_and_optional_part/ImageMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part2_2_inheritance_example_and_optional_part/LocationMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part2_2_inheritance_example_and_optional_part/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part2_2_inheritance_example_and_optional_part/TextMessage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part2_2_inheritance_example_and_optional_part/User.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/part2_2_inheritance_example_and_optional_part/VoiceMessage.java" afterDir="false" />
-    </list>
+    <list default="true" id="33338d83-7a12-4084-8a28-f5b814a93985" name="Changes" comment="initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,8 +63,16 @@
       <option name="presentableId" value="Default" />
       <updated>1681392031159</updated>
       <workItem from="1681392032320" duration="10492000" />
-      <workItem from="1681827184132" duration="12571000" />
+      <workItem from="1681827184132" duration="12906000" />
     </task>
+    <task id="LOCAL-00001" summary="initial commit">
+      <created>1681927241570</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681927241570</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,15 +89,8 @@
       </map>
     </option>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/part2_1_iInheritance_features/Engineer.java</url>
-          <line>6</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
   </component>
 </project>
